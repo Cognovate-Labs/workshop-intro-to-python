@@ -1,0 +1,26 @@
+{
+  "workshop"         : 2,
+  "students": [
+    {
+      "name" : "Partner 1",
+      "github_username" : "",
+      "email" : "",
+      "os"    : "Windows | MAC | Linux",
+      "total_effort_hours" : 0
+    },
+    {
+      "name" : "Partner 2",
+      "github_username" : "",
+      "email" : "",
+      "os"    : "Windows | MAC | Linux",
+      "total_effort_hours" : 0
+    },
+    {
+      "name" : "Partner 3",
+      "github_username" : "",
+      "email" : "",
+      "os"    : "Windows | MAC | Linux",
+      "total_effort_hours" : 0
+    }
+  ]
+}
