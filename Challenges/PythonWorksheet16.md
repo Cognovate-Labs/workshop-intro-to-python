@@ -1,4 +1,4 @@
-# ECE 16 – Intro to Python
+# Intro to Python
 ## Expectations
 Our goal is to introduce you to basic Python programming, execution control, and some Python specific syntax. This exersize will try to introduce these concepts, and by the end of the course you should have a good understanding of them. We will go through them in this order:
 0. Variable Assignment and Python basics syntax
